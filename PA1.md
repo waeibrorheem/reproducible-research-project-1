@@ -3,7 +3,7 @@ author: "Waeibrorheem Waemustafa"
 date: "25/11/2020"
 ---
   
-  github repo for rest of specialization: [Data Science Coursera](https://github.com/mGalarnyk/datasciencecoursera)
+  github repo for rest of specialization: [Data Science Coursera](https://github.com/waeibrorheem/reproducible-research-project1)
 
 Introduction
 ------------
